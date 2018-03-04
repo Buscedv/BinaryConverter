@@ -12,7 +12,7 @@ Demo:
 <br>
 
 ## Installation
-1.) Click <a href="" target="blank">This Link</a> Or clone this repo.
+1.) Click <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Buscedv/BinaryConverter/tree/master/Generator" target="blank">This Link</a> Or clone this repo.
 
 2.) Open the folder called 'Converter'
 
